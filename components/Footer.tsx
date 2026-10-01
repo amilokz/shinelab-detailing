@@ -72,7 +72,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-white/10 pt-6 text-xs text-steel md:flex-row">
-          <p>© 2026 ShineLab Detailing Studio. All rights reserved.</p>
+          <p>© 2026 ShineLab Detailing Studio. All rights reserved. · Designed &amp; built by <a href="https://akclnt.com" className="text-slate-400 underline-offset-4 hover:underline">AKCLNT</a></p>
           <p>
             Crafted with obsession in <span className="text-neon">Lahore</span>
           </p>
